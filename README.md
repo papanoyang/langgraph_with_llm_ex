@@ -17,7 +17,7 @@ pip install langchain langchain-community langchain-openai langgraph json5 pytho
 環境変数でのエクスポート
 
 ```
-% export OPENAI_API_KEY=ここのOPENAIのAPIキー
+% export OPENAI_API_KEY=ここにOPENAIのAPIキー
 % export TAVILY_API_KEY=ここにTavilyのAPIキー
 % expoet VERBOSE=1
 ```
@@ -27,7 +27,7 @@ pip install langchain langchain-community langchain-openai langgraph json5 pytho
 `.env`ファイル作成後、下記の内容を記載
 
 ```
-OPENAI_API_KEY=ここのOPENAIのAPIキー
+OPENAI_API_KEY=ここにOPENAIのAPIキー
 TAVILY_API_KEY=ここにTavilyのAPIキー
 VERBOSE=1
 ```
