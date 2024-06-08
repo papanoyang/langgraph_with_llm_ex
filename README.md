@@ -19,7 +19,7 @@ pip install langchain langchain-community langchain-openai langgraph json5 pytho
 ```
 % export OPENAI_API_KEY=ここにOPENAIのAPIキー
 % export TAVILY_API_KEY=ここにTavilyのAPIキー
-% expoet VERBOSE=1
+% export VERBOSE=1
 ```
 
 ### 方法２
